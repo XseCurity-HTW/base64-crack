@@ -5,6 +5,8 @@ toilet  Welcome --gay
 sleep 1
 echo "          welcome to hash cracker"
 echo " "
+echo "  -----------------Tool Made By Abhi------------
+echo " "
 echo "          Enter a hash to crack (base64)"
 echo " "
 read -p $'enter hash :- ' hash
